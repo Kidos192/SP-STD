@@ -13,28 +13,49 @@ width: 100%;
 }
 
 .sidebar{
-    background-color: gray;
+    background-color: #484f58;
     float: left;
-    height: 90%;
-    width: 25%;
+    height: 70%;
+    width: 30%;
 }
 
 .title{
-    background-color: black;
-    float: right;
+    background-color: #30363d;
     height: 20%;
-    width: 75%;
 }
 
 .content{
-    background-color: aqua;
+    background-color: #6e7681;;
     float: right;
     height: 70%;
-    width: 75%;
+    width: 70%;
 }
 
 .footer{
-    background-color: violet;
+    background-color: #30363d;
     height: 10%;
     clear:both;
+}
+
+.logo{
+    height: 100%;
+    width: 20%;
+    float: left;
+}
+
+.title2{
+    height: 100%;
+    width: 80%;
+    float: right;
+}
+
+.menu{
+width: 100%;
+height: 5%;
+}
+
+.menu:hover{
+    background-color: #30363d;
+    width: 100%;
+    height: 5%;
 }
